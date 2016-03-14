@@ -1,7 +1,7 @@
-Script started on 2016年03月14日 (週一) 11時11分53秒
-]0;F74042159@2015cpp: ~/lab1[01;32mF74042159@2015cpp[00m:[01;34m~/lab1[00m$ exit[2Plsvim .vimrc[5Pcd ..[3Plscd ..[3Plsvim lab1B.cppls[Kvim lab1B.cppls[Kcd ..[3Plscd ..vim .vimrcls[Kexit[Ksc[K[Kls
+Script started on 2016年03月14日 (週一) 11時30分27秒
+]0;F74042159@2015cpp: ~/lab1[01;32mF74042159@2015cpp[00m:[01;34m~/lab1[00m$ cat [K[K[K[Kla[Ks
 [0m[01;32mlab1B[0m  lab1B.cpp  lab1.script  README.md  Runlab1B.script
-]0;F74042159@2015cpp: ~/lab1[01;32mF74042159@2015cpp[00m:[01;34m~/lab1[00m$ cat lab1.B.[Ccpp
+]0;F74042159@2015cpp: ~/lab1[01;32mF74042159@2015cpp[00m:[01;34m~/lab1[00m$ cat r[Klab1B.cpp
 #include<iostream>
 using namespace std;
 
@@ -21,9 +21,11 @@ int main(){
 	cout << endl;
 	return 0;
 }
-]0;F74042159@2015cpp: ~/lab1[01;32mF74042159@2015cpp[00m:[01;34m~/lab1[00m$ ./cat la[K[K[K[K[K[Kla1b[K[Kb1B
+]0;F74042159@2015cpp: ~/lab1[01;32mF74042159@2015cpp[00m:[01;34m~/lab1[00m$ ./lab1B
 input n:12
 12 6 3 10 5 16 8 4 2 1 
-]0;F74042159@2015cpp: ~/lab1[01;32mF74042159@2015cpp[00m:[01;34m~/lab1[00m$ exit
+]0;F74042159@2015cpp: ~/lab1[01;32mF74042159@2015cpp[00m:[01;34m~/lab1[00m$ i[Ka[Kla[Ks
+[0m[01;32mlab1B[0m  lab1B.cpp  lab1.script  README.md  Runlab1B.script
+]0;F74042159@2015cpp: ~/lab1[01;32mF74042159@2015cpp[00m:[01;34m~/lab1[00m$ D[Kexit
 
-Script done on 2016年03月14日 (週一) 11時14分13秒
+Script done on 2016年03月14日 (週一) 11時31分22秒
